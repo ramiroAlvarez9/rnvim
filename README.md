@@ -1,5 +1,4 @@
-# Neovim Configuration
-
+# RNvim
 A personalized Neovim configuration built with `lazy.nvim` and `mason.nvim`, focused on web development with React and NestJS, with Open Code as the AI assistant.
 
 ## 🛠️ Features
