@@ -1,4 +1,7 @@
-# RNvim
+
+<img width="1904" height="912" alt="image" src="https://github.com/user-attachments/assets/073254a7-a7f0-431d-91e5-6892375df236" />
+
+# rnvim
 A personalized Neovim configuration built with `lazy.nvim` and `mason.nvim`, focused on web development with React and NestJS, with Open Code as the AI assistant.
 
 ## 🛠️ Features
