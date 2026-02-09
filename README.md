@@ -78,7 +78,7 @@ C = Ctrl or Command, depending on your system.
 
 1. Clone this repository to your Neovim configuration directory:
    ```bash
-   git clone <repo-url> ~/.config/nvim
+   git clone https://github.com/ramiroAlvarez9/rnvim.git ~/.config/nvim
    ```
 2. Open Neovim:
    ```bash
