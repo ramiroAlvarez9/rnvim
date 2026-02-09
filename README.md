@@ -4,7 +4,7 @@
 # rnvim
 A personalized Neovim configuration built with `lazy.nvim` and `mason.nvim`, focused on web development with React and NestJS, with Open Code as the AI assistant.
 
-## 🛠️ Features
+## Features
 
 - **Plugin Management**: Powered by [lazy.nvim](https://github.com/folke/lazy.nvim)
 - **LSP Support**: Pre-configured for TypeScript and ESLint using [Mason](https://github.com/williamboman/mason.nvim) and [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig).
@@ -18,7 +18,7 @@ A personalized Neovim configuration built with `lazy.nvim` and `mason.nvim`, foc
   - [Fidget.nvim](https://github.com/j-hui/fidget.nvim) for LSP status updates.
   - [Github Theme](https://github.com/projekt0n/github-nvim-theme) (High Contrast Dark).
 
-## ⌨️ Keymaps
+## Keymaps
 
 The leader key is set to `Space`.
 
@@ -67,14 +67,14 @@ C = Ctrl or Command, depending on your system.
 | `<C-b>` | Scroll documentation up |
 | `<C-f>` | Scroll documentation down |
 
-## ⚙️ Requirements
+## Requirements
 
 - Neovim >= 0.9.0
 - [Nerd Fonts](https://www.nerdfonts.com/) (icons)
 - [ripgrep](https://github.com/BurntSushi/ripgrep) (for Telescope grep)
 - `npm` (for formatting tools like `prettier` and `eslint_d`)
 
-## 🚀 Installation
+## Installation
 
 1. Clone this repository to your Neovim configuration directory:
    ```bash
@@ -87,7 +87,7 @@ C = Ctrl or Command, depending on your system.
 3. `lazy.nvim` will automatically download and install the configured plugins.
 4. Mason will handle the installation of language servers.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 .
