@@ -113,14 +113,11 @@ For example, to add a fictional plugin `author/plugin.nvim`:
 ```lua
 return {
   "author/plugin.nvim",
-  -- Optional: Specify version, dependencies, or configuration
   version = "*", -- Pin to a version or branch
   dependencies = { "nvim-lua/plenary.nvim" },
   config = function()
-    -- Your plugin setup function
   end,
 }
 ```
-
 After adding the file, you must restart Neovim. `lazy.nvim` will then automatically detect and install the new plugin.
 ```
