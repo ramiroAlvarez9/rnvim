@@ -123,5 +123,4 @@ return {
 ```
 
 After adding the file, you must restart Neovim. `lazy.nvim` will then automatically detect and install the new plugin.
-
 ```
