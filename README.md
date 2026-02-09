@@ -113,7 +113,7 @@ For example, to add a fictional plugin `author/plugin.nvim`:
 ```lua
 return {
   "author/plugin.nvim",
-  version = "*", -- Pin to a version or branch
+  version = "*",
   dependencies = { "nvim-lua/plenary.nvim" },
   config = function()
   end,
